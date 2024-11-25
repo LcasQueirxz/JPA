@@ -26,6 +26,4 @@ O projeto consiste na criação de uma classe `Produto`, onde serão armazenadas
 
 - **Adicionar Produto**: Permite ao usuário inserir o nome e o preço de um novo produto.
 - **Listar Produtos**: Exibe todos os produtos armazenados com seus respectivos nomes e preços.
-```
 
-Você pode copiar e colar este conteúdo no arquivo `README.md` do seu repositório no GitHub. Se precisar de mais alguma coisa, é só avisar! 😊
