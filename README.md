@@ -1,6 +1,4 @@
-Claro! Aqui está o README formatado em Markdown para você adicionar ao seu repositório GitHub:
 
-```markdown
 # Gerenciamento de Produtos
 
 ## 📋 Pré-requisitos
