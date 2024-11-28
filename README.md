@@ -27,3 +27,6 @@ O projeto consiste na criação de uma classe `Produto`, onde serão armazenadas
 - **Adicionar Produto**: Permite ao usuário inserir o nome e o preço de um novo produto.
 - **Listar Produtos**: Exibe todos os produtos armazenados com seus respectivos nomes e preços.
 
+Resultado aplicação 🖥️
+![img](https://github.com/LcasQueirxz/JPA/blob/main/img/Captura%20de%20Tela%202024-11-28%20%C3%A0s%2019.59.01.png)
+![img](https://github.com/LcasQueirxz/JPA/blob/main/img/Captura%20de%20Tela%202024-11-28%20%C3%A0s%2019.35.13.png)
